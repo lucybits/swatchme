@@ -1,0 +1,2 @@
+# swatchme
+Generate color palettes
